@@ -14,5 +14,8 @@ app.get("/", (req, res) => {
     res.send("success")
 })
 
+app.get("/root2", (req, res) => {
+    res.send("SUcccess2")
+})
 
 app.listen(PORT);
