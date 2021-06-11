@@ -8,3 +8,10 @@
 # script to start server
 # nodemon app.js
 # http://localhost:3000/
+
+
+## route we need.
+
+  ### ys/register
+  ### ys/login
+  
